@@ -38,7 +38,7 @@ if uploaded_file:
     st.write("PDF Uploaded Successfully")
 
 # Define button triggers
-submit1 = st.button("Tell Me About the Resume")
+submit1 = st.button("Compare Resume with Job Description")
 submit3 = st.button("Percentage Match")
 
 # Input prompts for generating responses
