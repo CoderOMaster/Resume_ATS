@@ -46,16 +46,12 @@ To set up the Resume ATS Scorer locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
-5. You can also use the app directly from the deployed link:
-   ```bash
-   https://resumeatsscore.streamlit.app/
-   ```
 
 ## Usage
 
-1. Open the application in your web browser.
+1. Open the application in your browser: https://resumeatsscore.streamlit.app/
 2. Upload your resume in PDF format.
-3. Paste the job description or upload it as a file.
+3. Paste the job description.
 4. Click on the "Compare Resume with Job Description" button to get your strengths, weaknesses, and a detailed comparison report.
 5. Click on "Percentage match" for ATS score.
 6. Review the feedback and make improvements to your resume.
