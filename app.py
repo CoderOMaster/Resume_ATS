@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 import os
-import pypdf as pdf
+import PYPDF2 as pdf
 from dotenv import load_dotenv
 import json
 
