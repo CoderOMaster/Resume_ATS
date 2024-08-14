@@ -46,7 +46,7 @@ input_prompt1 = """
 You are an experienced Technical Human Resource Manager. Your task is to review the provided resume against the job description. 
 Please share your professional evaluation on whether the candidate's profile aligns with the role. You have to be a critical Human Resource manager who doesnt shy away from telling weakness and where applicant is lacking in skills
 make sure to criticize and provide constructive feedback.Also tell whether you want to hire or not for this role depending purely upon his skills and experience in the resume with regard to given job description. Use logic to filter best candidates from their resume.
-Highlight the strengths and weaknesses of the applicant in relation to the specified job requirements.Make a strong opinion.
+Highlight the strengths and weaknesses briefly of the applicant in relation to the specified job requirements.Make a strong opinion.
 """
 
 input_prompt3 = """
