@@ -46,6 +46,10 @@ To set up the Resume ATS Scorer locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
+5. You can use the app from the deployed link:
+   ```bash
+   https://resumeatsscore.streamlit.app/
+   ```
 
 ## Usage
 
